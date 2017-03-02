@@ -55,3 +55,10 @@ https://github.com/zestyping/star-destroyer
 
 Tool to help remove `import *` from project code.
 
+# GNSS (GPS)
+
+## NovAtel Intro to GNSS
+
+http://www.novatel.com/an-introduction-to-gnss/
+
+This one looks really old (like back when the civilian GPS had error added to it) but most of the core stuff seems right. I like the level of detail it goes into as a first-pass. Not a textbook but more in-depth than most one-pager articles.
