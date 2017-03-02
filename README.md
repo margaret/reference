@@ -43,7 +43,7 @@ I think this one is pretty canonical but I reference it a lot and I think it doe
 
 ### UC Berkeley Self-paced Python
 
-www-inst.eecs.berkeley.edu/~selfpace/cs9honline/
+http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/
 
 I was a TA for this course years ago but I still reference the site sometimes when trying to explain things to new learners or brush up on stuff. Most of the projects aren't terribly practical but I like a lot of the conceptual explanations, like for scope, mutation, objects. Coincidentally it looks like a lot of this material was originally written over a decade ago by the guy who wrote `star-destroyer`. A lot of classic intro programming material as well.
 
@@ -54,6 +54,10 @@ I was a TA for this course years ago but I still reference the site sometimes wh
 https://github.com/zestyping/star-destroyer
 
 Tool to help remove `import *` from project code.
+
+# Haskell
+
+I have to learn this for work. I've tried Learn You A Haskell but I don't like how it doesn't have exercises (also the tone gets kind of gratingly juvenile rather than cheerfully quirky after a while). I did try the LambdaSchool thing from Kickstarter as well but it has been really slow to update + I find it hard to casually practice stuff when I have the minor but still extra step of having to log into the site and find headphone to listen to the videos and stuff. I'm a few chapters into [haskellbook](http://haskellbook.com/) and so far this seems to be the most usable resource. Note that besides the sample chapters this is not free.
 
 # GNSS (GPS)
 
