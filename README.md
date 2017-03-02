@@ -1,6 +1,8 @@
 # reference
 Collection of various websites and documents I've found helpful. Should probably just be a gist but eh.
 
+Most of this stuff is on the first page of google results for "how to do X" so this is largely for personal reference.
+
 # Rendering things
 
 ## Markdown
@@ -46,6 +48,12 @@ I think this one is pretty canonical but I reference it a lot and I think it doe
 http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/
 
 I was a TA for this course years ago but I still reference the site sometimes when trying to explain things to new learners or brush up on stuff. Most of the projects aren't terribly practical but I like a lot of the conceptual explanations, like for scope, mutation, objects. Coincidentally it looks like a lot of this material was originally written over a decade ago by the guy who wrote `star-destroyer`. A lot of classic intro programming material as well.
+
+### Python Weekly
+
+http://www.pythonweekly.com/
+
+It's got general Python news, articles, tutorials, meetups, and new projects. Content tends to be of variable quality but it's a nice way to stay current on things. I tend to at least click on a few of the links from each email.
 
 ## Tools
 
