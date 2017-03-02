@@ -45,7 +45,7 @@ I think this one is pretty canonical but I reference it a lot and I think it doe
 
 www-inst.eecs.berkeley.edu/~selfpace/cs9honline/
 
-I was a TA for this course years ago but I still reference the site sometimes when trying to explain things to new learners or brush up on stuff. Most of the projects aren't terribly practical but I like a lot of the conceptual explanations, like for scope, mutation, objects. Coincidentally it looks like a lot of this material was originally written by the guy who wrote `star-destroyer` over a decade ago. A lot of classic intro programming material as well.
+I was a TA for this course years ago but I still reference the site sometimes when trying to explain things to new learners or brush up on stuff. Most of the projects aren't terribly practical but I like a lot of the conceptual explanations, like for scope, mutation, objects. Coincidentally it looks like a lot of this material was originally written over a decade ago by the guy who wrote `star-destroyer`. A lot of classic intro programming material as well.
 
 ## Tools
 
