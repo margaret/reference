@@ -3,6 +3,8 @@ Collection of various websites and documents I've found helpful. Should probably
 
 Most of this stuff is on the first page of google results for "how to do X" so this is largely for personal reference.
 
+See [`HOWTO.md`](./HOWTO.md) for short "How do I do `thing`" sort of stuff.
+
 # Rendering things
 
 ## Markdown
@@ -24,6 +26,9 @@ Good if you just need to check something quickly in the browser. Doesn't do full
 https://stackedit.io/
 
 Editor + live preview in browser. You can just use it, or you cna make an account and save stuff. I haven't used it in a while but I think it isn't limited to just markdown. 
+
+### grip
+[grip](https://github.com/joeyespo/grip) worked out of the box for me (`pip install`). Pro: it does the full GitHub markdown (including emoji :snake:).  Con: Requires internet access.
 
 ## LaTeX
 
